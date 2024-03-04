@@ -76,7 +76,7 @@ fun ContactSearchBar(
         ),
         modifier = modifier
             .fillMaxWidth()
-            .padding(10.dp)
+            .padding(16.dp)
     )
 }
 
